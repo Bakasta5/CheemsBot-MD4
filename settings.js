@@ -61,8 +61,8 @@ global.socialm = "GitHub:sohaib" //ur github or insta name
 global.location = "morroco, tanger, branes2" //ur location
 
 //bot bomdy 
-global.owner = ['+34613666994']
-global.ownertag = '+34613666994' //ur tag number
+global.owner = ['+212695-689130']
+global.ownertag = '+212695-689130' //ur tag number
 global.botname = 'sohaibot🐼🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
@@ -70,7 +70,7 @@ global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script 
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "صهيب ⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+global.author = "⍣212695-789130⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
